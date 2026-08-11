@@ -2,7 +2,9 @@
 
 #include "Types.h"
 
+#include <functional>
 #include <map>
+#include <optional>
 #include <vector>
 
 namespace cae {
